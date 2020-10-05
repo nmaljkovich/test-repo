@@ -1,28 +1,22 @@
-# This is a large heading
+# Introduction
+Data analyst by profession, data scientist for *fun*.
 
-## This is a smaller heading
+## Location:
 
-And as **bold** bodies forth,
-The forms of things *Italic*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+- Buenos Aires, **AR**gentina.
 
-- This is
-- an unordered
-- list
+## Knowledge:
 
-1. This is
-2. an ordered
-3. list
+- Python 3.7 `intermediate`
+- C# `Beginner`
+- SQL `Expert`
 
-Here is `ctrl + c` in the middle of a sentence.
+## Skills:
 
-```
-This is
-a block
-of code
-```
+- Web Scrapping
+- Machine Learning with SKLearn
+- Data mining, ETL, reporting.
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Hit me up on [Linkedin](https://www.linkedin.com/in/nicolas-martin-m-a87800104/)
